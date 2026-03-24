@@ -88,7 +88,7 @@ cd shrisha-education
 open index.html
 ```
 
-No setup. No install. Just open and run. 🎉
+No setup.. No install.. Just open and run.. 🎉
 
 ---
 
